@@ -1,0 +1,14 @@
+Example YouTube Video IDs:
+
+1. dQw4w9WgXcQ - Rick Astley - Never Gonna Give You Up
+2. jNQXAC9IVRw - Me at the zoo (first YouTube video)
+3. 9bZkp7q19f0 - PSY - Gangnam Style
+4. kJQP7kiw5Fk - Luis Fonsi - Despacito ft. Daddy Yankee
+
+How to find a YouTube video ID:
+1. Go to a YouTube video
+2. Look at the URL: https://www.youtube.com/watch?v=VIDEO_ID
+3. The part after "v=" is the video ID
+
+For example, in https://www.youtube.com/watch?v=dQw4w9WgXcQ
+The video ID is: dQw4w9WgXcQ

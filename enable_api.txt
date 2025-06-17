@@ -1,0 +1,13 @@
+How to Enable YouTube Data API v3:
+
+1. Go to Google Cloud Console:
+   https://console.cloud.google.com/apis/library/youtube.googleapis.com?project=1076110751369
+
+2. Click the "ENABLE" button
+
+3. Wait a few minutes for the change to propagate
+
+4. Run the monitor_channels.py script:
+   python monitor_channels.py
+
+This will allow you to monitor your specified YouTube channels for new videos and process them automatically.

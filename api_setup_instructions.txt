@@ -1,0 +1,21 @@
+How to Fix "Requests from referer <empty> are blocked" Error:
+
+1. Go to Google Cloud Console:
+   https://console.cloud.google.com/apis/credentials?project=1076110751369
+
+2. Find your API key (AIzaSyB_vnu1fnwMAZYRrCZz0sgjnPirmn6WjH0)
+
+3. Click on the key to edit it
+
+4. Under "API restrictions", select "YouTube Data API v3"
+
+5. Under "Application restrictions", select one of these options:
+   - Choose "None" (least secure but easiest for testing)
+   - OR choose "IP addresses" and add your current IP address
+
+6. Click "Save"
+
+7. Wait a few minutes for changes to propagate
+
+8. Try running the script again:
+   python monitor_channels.py
